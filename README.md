@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @m-conway
+- ✈️ I’m interested in aeronautical engineering and aviation.
+- 🐍 I’m currently learning Swift and Python
